@@ -102,6 +102,8 @@ Ports are like numbered **doors** on a device that services use to communicate.
 | 80   | HTTP               |
 | 443  | HTTPS (Secure Web) |
 | 32400| Custom (e.g., Plex)|
+| 22  | SSH (Secure remote login) |
+| 25| SMTP (Email sending)|
 
 To connect to a service, the client must use the correct **IP address + port number**.
 
