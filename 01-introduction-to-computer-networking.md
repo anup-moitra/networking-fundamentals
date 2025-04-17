@@ -65,7 +65,7 @@ Every device has two key identifiers:
 
 #### 🔹 MAC Address
 - Hardware address burned into the **Network Interface Card (NIC)**.
-- Unique per device.
+- Unique per network interface on a device.
 - Format: `00:1A:2B:3C:4D:5E`
 
 #### 🔹 IP Address
