@@ -71,7 +71,7 @@ Every device has two key identifiers:
 #### 🔹 IP Address
 - Logical address for communication.
 - Format (IPv4): `192.168.0.101`
-- Assigned by router using **DHCP (Dynamic Host Configuration Protocol)**
+- Assigned by router using **DHCP (Dynamic Host Configuration Protocol)** – which automatically gives devices IP addresses.
 
 ---
 
