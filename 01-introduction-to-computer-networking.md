@@ -27,8 +27,8 @@ With networks, we can instantly share:
 
 | Term  | Meaning                                                                 |
 |-------|-------------------------------------------------------------------------|
-| **Node** | Any device connected to the network (e.g., phone, computer, switch).    |
-| **Host** | A node that can send or receive data (e.g., your phone or laptop).      |
+| **Node** | A node is any device connected to a network. This includes computers, servers, printers, switches, routers, or any other device that can send, receive, or forward data.    |
+| **Host** | A device connected to a computer network. A host can act as a server, providing information, resources, services, and applications to users.  |
 
 ---
 
