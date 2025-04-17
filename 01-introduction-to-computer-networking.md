@@ -91,6 +91,8 @@ A **protocol** is like a language that devices use to talk to each other.
 
 Just like people use English or Spanish, computers use **protocols**.
 
+> 💡 Think of a **protocol** as the **"language"** used for communication, and the **port number** as the **"mailbox"** where that kind of message is delivered.
+
 ---
 
 ### 🔢 What Are Port Numbers?
