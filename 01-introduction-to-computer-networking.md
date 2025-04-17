@@ -86,6 +86,8 @@ A **protocol** is like a language that devices use to talk to each other.
 | **HTTPS**| Secure version of HTTP                |
 | **DNS**  | Translates website names to IPs       |
 | **FTP**  | File transfer between devices         |
+| **TCP**  | Reliable transport of data       |
+| **UDP**  | Faster, connectionless communication (e.g., for video streaming, DNS)|
 
 Just like people use English or Spanish, computers use **protocols**.
 
