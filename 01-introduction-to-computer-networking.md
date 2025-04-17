@@ -23,7 +23,7 @@ With networks, we can instantly share:
 
 ---
 
-### 🖥️ Devices on a Network: Nodes & Hosts
+### 💽 Devices on a Network: Nodes & Hosts
 
 | Term  | Meaning                                                                 |
 |-------|-------------------------------------------------------------------------|
@@ -32,7 +32,7 @@ With networks, we can instantly share:
 
 ---
 
-### 🔄 The Client-Server Model
+### ↺ The Client-Server Model
 
 Most modern networks use the **Client-Server** architecture:
 
@@ -52,8 +52,8 @@ A device can be **both** a client and server (e.g., when hosting a shared folder
 Devices connect to networks in several ways:
 
 - 🧵 **Wired (Ethernet)** – Copper (Cat5, Cat6) or fiber optic cables.
-- 📶 **Wireless** – Wi-Fi, Bluetooth, or cellular.
-- 🛰️ **Satellite** – e.g., Starlink for remote access.
+- 📦 **Wireless** – Wi-Fi, Bluetooth, or cellular.
+- 🛠️ **Satellite** – e.g., Starlink for remote access.
 
 Even **two devices** (like two laptops or phones) can form a simple network.
 
@@ -104,7 +104,7 @@ Ports are like numbered **doors** on a device that services use to communicate.
 | 80   | HTTP               |
 | 443  | HTTPS (Secure Web) |
 | 32400| Custom (e.g., Plex)|
-| 22  | SSH (Secure remote login) |
+| 22   | SSH (Secure remote login) |
 | 25   | SMTP (Email sending)               |
 
 To connect to a service, a client must use the correct **IP address** and **port number**.
@@ -117,7 +117,7 @@ A **NIC** is the hardware that lets a device connect to a network.
 
 Types:
 - 🌐 Ethernet NICs (Wired)
-- 📶 Wireless NICs (Wi-Fi, USB Adapters)
+- 📦 Wireless NICs (Wi-Fi, USB Adapters)
 - 🔌 Fiber NICs (SFP ports for high-speed)
 
 Each NIC has a **MAC address** that identifies it on the network.
@@ -144,6 +144,6 @@ Each NIC has a **MAC address** that identifies it on the network.
 
 ---
 
-> 🔜 **Next Chapter**: Dive into **network topologies** and how data moves from point A to B!
+> 💜 **Next Chapter**: Dive into **network topologies** and how data moves from point A to B!
 
 ---
