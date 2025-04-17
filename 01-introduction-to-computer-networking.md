@@ -1,8 +1,7 @@
-# 📡 Chapter 1: Understanding Computer Networks – The Basics
+# Module 1: Introduction
+## 📡 Chapter 1: Understanding Computer Networks – The Basics
 
----
-
-## 💡 What is a Computer Network?
+### 💡 What is a Computer Network?
 
 A **computer network** is a group of devices (like laptops, phones, or servers) that are **connected together** to **share resources or data**.
 
@@ -10,7 +9,7 @@ If you've ever streamed a video, sent an email, or downloaded a file—you were 
 
 ---
 
-## 🤔 Why Do We Use Networks?
+### 🤔 Why Do We Use Networks?
 
 Before modern networks, we used **CDs**, **floppy disks**, or **USB drives** to transfer files. That works if you're in the same room—but it's not ideal across long distances.
 
@@ -24,7 +23,7 @@ With networks, we can instantly share:
 
 ---
 
-## 🖥️ Devices on a Network: Nodes & Hosts
+### 🖥️ Devices on a Network: Nodes & Hosts
 
 | Term  | Meaning                                                                 |
 |-------|-------------------------------------------------------------------------|
@@ -33,7 +32,7 @@ With networks, we can instantly share:
 
 ---
 
-## 🔄 The Client-Server Model
+### 🔄 The Client-Server Model
 
 Most modern networks use the **Client-Server** architecture:
 
@@ -48,7 +47,7 @@ A device can also be **both** a client and a server.
 
 ---
 
-## 🔌 How Do Devices Connect?
+### 🔌 How Do Devices Connect?
 
 Devices connect to networks in several ways:
 
@@ -60,23 +59,23 @@ Even **two devices** (like two laptops or phones) can form a simple network.
 
 ---
 
-## 🌍 Identifying Devices: IP Address & MAC Address
+### 🌍 Identifying Devices: IP Address & MAC Address
 
 Every device has two key identifiers:
 
-### 🔹 MAC Address
+#### 🔹 MAC Address
 - Hardware address burned into the **Network Interface Card (NIC)**.
 - Unique per device.
 - Format: `00:1A:2B:3C:4D:5E`
 
-### 🔹 IP Address
+#### 🔹 IP Address
 - Logical address for communication.
 - Format (IPv4): `192.168.0.101`
 - Assigned by router using **DHCP (Dynamic Host Configuration Protocol)**
 
 ---
 
-## 📡 What is a Protocol?
+### 📡 What is a Protocol?
 
 A **protocol** is like a language that devices use to talk to each other.
 
@@ -92,7 +91,7 @@ Just like people use English or Spanish, computers use **protocols**.
 
 ---
 
-## 🔢 What Are Port Numbers?
+### 🔢 What Are Port Numbers?
 
 Ports are like numbered **doors** on a device that services use to communicate.
 
@@ -106,7 +105,7 @@ To connect to a service, the client must use the correct **IP address + port num
 
 ---
 
-## 💻 What is a Network Interface Card (NIC)?
+### 💻 What is a Network Interface Card (NIC)?
 
 A **NIC** is the hardware that lets a device connect to a network.
 
@@ -119,7 +118,7 @@ Each NIC has a **MAC address** that identifies it on the network.
 
 ---
 
-## 🕸️ Types of Networks
+### 🕸️ Types of Networks
 
 | Type | Description                              |
 |------|------------------------------------------|
@@ -129,7 +128,7 @@ Each NIC has a **MAC address** that identifies it on the network.
 
 ---
 
-## ✅ Summary
+### ✅ Summary
 
 ✔ A **computer network** connects devices to share resources  
 ✔ Devices are identified using **MAC addresses** and **IP addresses**  
