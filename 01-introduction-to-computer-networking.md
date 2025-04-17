@@ -43,7 +43,7 @@ Most modern networks use the **Client-Server** architecture:
 > Your **phone** is the client.  
 > **YouTube's servers** send videos to your device.
 
-A device can also be **both** a client and a server.
+A device can be **both** a client and server (e.g., when hosting a shared folder over the network while browsing the web).
 
 ---
 
