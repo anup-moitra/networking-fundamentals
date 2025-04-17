@@ -86,12 +86,12 @@ A **protocol** is like a language that devices use to talk to each other.
 | **HTTPS**| Secure version of HTTP                |
 | **DNS**  | Translates website names to IPs       |
 | **FTP**  | File transfer between devices         |
-| **TCP**  | Reliable transport of data       |
-| **UDP**  | Faster, connectionless communication (e.g., for video streaming, DNS)|
+| **TCP**  | Reliable delivery of data (used by HTTP, FTP, etc.)       |
+| **UDP**  | Fast, connectionless communication (used for DNS, streaming) |
 
 Just like people use English or Spanish, computers use **protocols**.
 
-> 💡 Think of a **protocol** as the **"language"** used for communication, and the **port number** as the **"mailbox"** where that kind of message is delivered.
+💡 Think of a **protocol** as the **"language"** used for communication, and the **port number** as the **"mailbox"** where that kind of message is delivered.
 
 ---
 
@@ -107,7 +107,7 @@ Ports are like numbered **doors** on a device that services use to communicate.
 | 22  | SSH (Secure remote login) |
 | 25| SMTP (Email sending)|
 
-To connect to a service, the client must use the correct **IP address + port number**.
+To connect to a service, a client must use the correct **IP address** and **port number**.
 
 ---
 
