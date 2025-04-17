@@ -52,7 +52,7 @@ A device can be **both** a client and server (e.g., when hosting a shared folder
 Devices connect to networks in several ways:
 
 - 🧵 **Wired (Ethernet)** – Copper (Cat5, Cat6) or fiber optic cables.
-- 📶 **Wireless** – Wi-Fi or Bluetooth.
+- 📶 **Wireless** – Wi-Fi, Bluetooth, or cellular.
 - 🛰️ **Satellite** – e.g., Starlink for remote access.
 
 Even **two devices** (like two laptops or phones) can form a simple network.
