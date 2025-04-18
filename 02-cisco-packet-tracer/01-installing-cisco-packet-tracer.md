@@ -1,4 +1,4 @@
-# Module 2: Introduction  
+# Module 2: Cisco Packet Tracer  
 ## 🖥️ Chapter 1: Installing Cisco Packet Tracer – Your Networking Lab  
 
 ### 💡 Why Use Cisco Packet Tracer?  
