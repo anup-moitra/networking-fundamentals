@@ -1,5 +1,5 @@
 # Module 1: Introduction  
-## 📡 Chapter 2: Network Topologies and Devices – How Everything Connects  
+## Chapter 2: Network Topologies and Devices – How Everything Connects  
 
 ### 💡 What is a Network Topology?  
 
