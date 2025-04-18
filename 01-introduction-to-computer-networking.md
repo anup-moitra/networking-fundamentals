@@ -1,5 +1,5 @@
 # Module 1: Introduction
-## 📡 Chapter 1: Understanding Computer Networks – The Basics
+## Chapter 1: Understanding Computer Networks – The Basics
 
 ### 💡 What is a Computer Network?
 
